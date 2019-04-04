@@ -1,8 +1,10 @@
+var arabicNumbersList = ["1", "4", "5", "9", "10", "40", "50", "90", "100", "400", "500", "900", "1000"];
+var romanNumeralList = [];
 
-var romanNumeral = function(input) {
-  if(input === 1) {
-    return "I";
-  };
+function romanNumeral(input) {
+  if (input > 3999) {
+    return "Roman Numerals do not go higher than 3,999";
+  } else if
 };
 
 
