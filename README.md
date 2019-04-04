@@ -10,10 +10,10 @@ _This is a webpage that converts numbers to Roman Numerals._
 
 ## Setup/Installation Requirements
 
-1. Go to (repo)[https://github.com/reese-lee/roman-numerals.git].
+1. Go to [repo](https://github.com/reese-lee/roman-numerals.git)
 2. Open index.html in browser.
 
-##Specs
+## Specs
 
 | Behavior | Input | Output |
 | ------------- |:-------------:| -----:|
@@ -22,10 +22,7 @@ _This is a webpage that converts numbers to Roman Numerals._
 | Add value of all symbols together | 66 | LXVI |
 | The program will not allow more than three of the same symbols in a row. | 4 | error |
 | The program will use subtraction to output Roman Numerals that otherwise would have more than three symbols in a row. | 4 | IV |
-| Separate ones, tens, hundreds, thousands. | 99 | XCIX | 
-
-
-
+| Separate ones, tens, hundreds, thousands. | 99 | XCIX |
 
 ## Support and contact details
 
